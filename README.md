@@ -3,8 +3,11 @@
 To run the program open up multiple command lines etc in the destination folder. 
 
 To run the code type:
-Server.py
+
+Server.py:
   python server.py 
-Client.py
+  
+  
+Client.py:
   python client.py
   
